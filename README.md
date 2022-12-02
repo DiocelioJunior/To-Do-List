@@ -1,2 +1,2 @@
 # To-Do-List
-<h1>TO-DO LIST<h1>
+<p>Uma simples lista de tarefas feito com HTML, CSS e Javascript<p>
